@@ -1,2 +1,2 @@
 # Discussions
-Nebula Studios 的公开讨论存储库
+本组织的讨论存储库
